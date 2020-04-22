@@ -36,3 +36,5 @@ Verilog |  | V |  |
 - [x] Use SBC to make something
 ## This sem chur af... ##
 ~~This is the end of my presentation, thank you!~~
+## Screen Shot ##
+![screenshot](Milestone2.jpg)
